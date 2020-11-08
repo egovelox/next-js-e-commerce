@@ -8,7 +8,7 @@ function Layout ({ children }) {
   const handleMenu = () => setMenuOpen(!menuOpen)
   const handleOpen = () => setCartOpen(!cartOpen)
   return (
-    <div className="bg-white">
+    <div className="bg-orange-400">
       <header>
         <div className="container mx-auto px-6 py-3">
           <div className="flex items-center justify-between">
