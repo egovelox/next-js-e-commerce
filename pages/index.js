@@ -20,7 +20,7 @@ function IndexPage (props) {
   })
 
   return (
-    <div className="my-8">
+    <div className="my-8 bg-orange-400">
       {/* <div className="container mx-auto px-6">
           <div
             className="h-64 rounded-md overflow-hidden bg-cover bg-center"
